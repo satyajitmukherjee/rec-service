@@ -1,1 +1,1 @@
-# rec-service
+# receivable-service
